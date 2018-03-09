@@ -1,0 +1,22 @@
+body{
+    background-color: lightcyan;
+    width: 790;
+}
+h1{
+    color: purple;
+    margin: 0 0 0 325px;
+}
+#header{
+    background-color: darkcyan;
+    padding: 20 0 20 0;
+    margin: 0 0 0 0;
+}
+a{
+    font-size: 20;
+    padding: 20 70 20 70;
+    border-right: 2px solid black;
+    margin: 0 0 0 0;
+}
+#Luca{
+    display: inline-block;
+}
